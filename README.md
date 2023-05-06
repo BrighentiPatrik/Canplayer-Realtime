@@ -5,7 +5,7 @@ This project is my [thesis](/Thesis/Tesi_Brighenti_Patrik.pdf) that i've done to
 
 ## Canplayer
 
-## Scrpts
+## Scripts
 
 ## Dataset
 
